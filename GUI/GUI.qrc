@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="GUI">
+    <file>Resources/Xbox_LB.png</file>
+    <file>Resources/Xbox_LT.png</file>
+    <file>Resources/Xbox_RB.png</file>
+    <file>Resources/Xbox_RT.png</file>
+    <file>Resources/Xbox-dpad.png</file>
+    <file>Resources/Xbox_A_button.png</file>
+    <file>Resources/Xbox_B_button.png</file>
+    <file>Resources/Xbox_X_button.png</file>
+    <file>Resources/Xbox_Y_button.png</file>
+  </qresource>
+</RCC>
